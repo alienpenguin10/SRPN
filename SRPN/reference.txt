@@ -1,0 +1,9 @@
+1.evaluator.py:
+Line 16-24:Dictionary handling - https://stackoverflow.com/questions/45072283/how-to-use-a-python-dictionary
+Line 16: https://processing.org/examples/operatorprecedence.html
+2.stack.py:
+https://replit.com/@varnie/OOPStack#main.py (by varniethank for Alevel CS)
+https://replit.com/@varnie/Stacks#main.py (by varniethank for Alevel CS)
+3.SRPN.py:
+https://replit.com/@varnie/rpn#main.c (by varniethank for Alevel CS)
+Lines 29-43:Processing input with recursion and evaluation idea - https://github.com/OllieJonas/SRPN/blob/master
